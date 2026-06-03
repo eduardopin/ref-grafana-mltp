@@ -3,3 +3,8 @@ agent/config-cloud-configured.yaml
 docker-compose-cloud-configured.yml
 unconfigure.sh
 .idea/
+.codex-repo-context.json
+.DS_Store
+.env
+*.tfstate
+*.tfstate.*
